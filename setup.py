@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='src',
+    name='clothe-lib',
     version='0.1.0',
     description='Shared clothe.ai library',
     url='https://github.com/shalireza/clothe-lib',
