@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='hmc_shared',
+    name='src',
     version='0.1.0',
-    description='Shared bo materials',
-    url='https://github.com/shalireza/hwc_shared',
+    description='Shared clothe.ai library',
+    url='https://github.com/shalireza/clothe-lib',
     author='Alireza Shateri',
     author_email='alirezashateri7@gmail.com',
     license='MIT',
