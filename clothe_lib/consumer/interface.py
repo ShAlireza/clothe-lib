@@ -1,12 +1,13 @@
 import json
 
-from hmc_shared.utils import RabbitmqHandler
+from clothe_lib.utils import RabbitmqHandler
 
 
 class ConsumerKinds:
     DIVAR = 'divar'
     BAMA = 'bama'
     SHEYPOOR = 'sheypoor'
+    NIKE = 'nike'
 
 
 class Consumer:

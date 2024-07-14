@@ -1,10 +1,11 @@
-from hmc_shared.utils import RabbitmqHandler
+from clothe_lib.utils import RabbitmqHandler
 
 
 class ProducerKinds:
     DIVAR = 'divar'
     BAMA = 'bama'
     SHEYPOOR = 'sheypoor'
+    NIKE = 'nike'
 
 
 class Producer:
